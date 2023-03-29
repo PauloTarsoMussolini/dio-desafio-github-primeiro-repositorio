@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
-Bootcamp Potência Tech Angular | Desafio de projeto sobre git / github
+# DIO - Bootcamp Potência Tech Angular 
+## Desafio de projeto sobre git / github
+## dio-desafio-github-primeiro-repositorio
+
